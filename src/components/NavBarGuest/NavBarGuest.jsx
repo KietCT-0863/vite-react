@@ -12,7 +12,7 @@ import {
   FaUserCircle,
   FaSignOutAlt,
 } from "react-icons/fa";
-import "./NavBarGuest.scss";
+import "./NavbarGuest.scss";
 
 const NavLink = ({ to, children, icon }) => {
   const location = useLocation();
